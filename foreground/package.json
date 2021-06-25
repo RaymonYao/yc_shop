@@ -1,0 +1,31 @@
+{
+  "name": "shop",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "core-js": "^3.6.4",
+    "qs": "^6.9.4",
+    "swiper": "^5.4.1",
+    "v-distpicker": "^1.2.2",
+    "vue": "^2.6.11",
+    "vue-awesome-swiper": "^4.1.1",
+    "vue-layer": "^1.2.0",
+    "vue-router": "^3.1.6"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.3.0",
+    "@vue/cli-plugin-router": "~4.3.0",
+    "@vue/cli-service": "~4.3.0",
+    "vue-template-compiler": "^2.6.11"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}

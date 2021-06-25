@@ -1,0 +1,70 @@
+{extend name="master/base" /}
+
+{block name="content"}
+<style>
+    body {
+        background-color: #ffffff;
+    }
+
+    .zyupload {
+        margin: 0 !important;
+    }
+</style>
+
+<div class="layui-form layuimini-form">
+    <div class="layui-form-item">
+        <label class="layui-form-label required">名称</label>
+        <div class="layui-input-block">
+            <input type="text" name="swiper_name" lay-verify="required" lay-reqtext="名不能为空" placeholder="请输入名" value=""
+                   class="layui-input">
+        </div>
+    </div>
+    <div class="layui-form-item">
+        <label class="layui-form-label required">展示</label>
+        <div class="layui-input-block">
+            <input type="radio" name="is_show" value="1" title="是" checked="">
+            <input type="radio" name="is_show" value="0" title="否">
+        </div>
+    </div>
+    <div class="layui-form-item">
+        <label class="layui-form-label required">排序</label>
+        <div class="layui-input-block">
+            <input type="number" name="swiper_order" lay-verify="required" lay-reqtext="排序不能为空"
+                   placeholder="请输入1-100 越大越往后" value="" class="layui-input">
+        </div>
+    </div>
+
+
+    <div class="layui-form-item">
+        <label class="layui-form-label">图片上传</label>
+        <div class="layui-input-block">
+            <div id="zyupload" class="zyupload"></div>
+            <input type="hidden" name="img_url" id="img_url" value=""/>
+        </div>
+    </div>
+
+    <div class="layui-form-item">
+        <div class="layui-input-block">
+            <button class="layui-btn layui-btn-normal" lay-submit lay-filter="saveBtn">确认保存</button>
+        </div>
+    </div>
+</div>
+
+<script src="/static/admin/js/upload.js"></script>
+<script>
+    layui.use(['form'], function () {
+        let form = layui.form,
+            layer = layui.layer,
+            $ = layui.$;
+        //监听提交
+        form.on('submit(saveBtn)', function (data) {
+            $.post('/admin/swiper', data.field, function (res) {
+                if (res.status === 'success') {
+                    window.location = '/admin/swiper'
+                }
+            })
+            return false;
+        });
+    });
+</script>
+{/block}

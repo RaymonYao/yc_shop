@@ -1,0 +1,354 @@
+{
+  "sendCode": [],
+  "login": [
+    {
+      "mobile": "13945681235",
+      "code": "1235",
+      "id": 1
+    },
+    {
+      "mobile": "13895647895",
+      "code": "1554",
+      "id": 2
+    }
+  ],
+  "swiper": [
+    {
+      "id": 1,
+      "url": "//m.360buyimg.com/mobilecms/s700x280_jfs/t1/107645/35/18432/93282/5ec34645Ea03bb815/6ce0b0f964b92e63.jpg!cr_1125x445_0_171!q70.jpg.dpg"
+    },
+    {
+      "id": 1,
+      "url": "//m.360buyimg.com/mobilecms/s700x280_jfs/t1/39975/6/2210/103146/5cbfdd4fEd359fb15/90c41bac5ab851de.jpg!cr_1125x445_0_171!q70.jpg.dpg"
+    },
+    {
+      "id": 1,
+      "url": "//m.360buyimg.com/mobilecms/s700x280_jfs/t1/107645/35/18432/93282/5ec34645Ea03bb815/6ce0b0f964b92e63.jpg!cr_1125x445_0_171!q70.jpg.dpg"
+    }
+  ],
+  "saveAddr": [
+    {
+      "name": "刘德华",
+      "mobile": "13596852658",
+      "address": "吉林省  吉林市  船营区北京路 188号",
+      "token": "123213aadf",
+      "id": 1
+    },
+    {
+      "name": "lampol",
+      "mobile": "13856895478",
+      "address": "河北省  石家庄市  桥西区北京路 22号",
+      "token": "123213aadf",
+      "id": 2
+    }
+  ],
+  "indexGoods": [
+    {
+      "id": 1,
+      "goods_url": "//img30.360buyimg.com/mobilecms/s372x372_jfs/t16774/99/2156329090/389345/2b2e9982/5ae9dea8N08754fa0.jpg!q70.dpg.webp",
+      "goods_name": "法国KJ蕾丝聚拢文胸套装刺绣薄款无钢圈插片式调整型小胸内衣舒适透气文胸 聚拢虾粉色1 75B=34B(配内裤) ",
+      "goods_price": 168,
+      "goods_introduce": [
+        "//img12.360buyimg.com/imgzone/jfs/t1/119097/21/6794/198426/5ebd880eE0cbe4cac/5130645f6e09dc01.jpg!q70.dpg.webp",
+        "//img14.360buyimg.com/imgzone/jfs/t1/111863/28/6758/280689/5ebd17c3E99c1eee4/4e0e0ca143f9a8af.jpg!q70.dpg.webp",
+        "//img30.360buyimg.com/imgzone/jfs/t1/127703/20/1509/217150/5ebd17c3E78e49d3c/2bd58ac59af2d272.jpg!q70.dpg.webp",
+        "//img20.360buyimg.com/imgzone/jfs/t1/108799/22/18029/249391/5ebd17c6E795ca25a/43c1613638697faf.jpg!q70.dpg.webp",
+        "//img14.360buyimg.com/imgzone/jfs/t1/119157/28/6703/249426/5ebd17c7Ecd1beb48/a7d265477356e4ed.jpg!q70.dpg.webp",
+        "//img20.360buyimg.com/imgzone/jfs/t1/113784/18/6707/100834/5ebd17c7Eebfa2119/7b3d6b601a36d357.jpg!q70.dpg.webp",
+        "//img10.360buyimg.com/imgzone/jfs/t1/114726/10/6707/169304/5ebd17c8Ed2fa1262/bf4bcd2d095d3b84.jpg!q70.dpg.webp",
+        "//img20.360buyimg.com/imgzone/jfs/t1/125098/21/1488/208823/5ebd17c8E450c3af2/ab08cadb51652109.jpg!q70.dpg.webp",
+        "//img14.360buyimg.com/imgzone/jfs/t1/122734/34/1546/262602/5ebd17c8Ebf81ea9f/5aadf2a100872b56.jpg!q70.dpg.webp",
+        "//img20.360buyimg.com/imgzone/jfs/t1/114188/35/6729/291046/5ebd17c9E2bd5bb68/ad66749cb33ba775.jpg!q70.dpg.webp",
+        "//img20.360buyimg.com/imgzone/jfs/t1/117439/13/6745/313671/5ebd17c9Ed06c2b7a/c2b567da0332db13.jpg!q70.dpg.webp",
+        "//img30.360buyimg.com/imgzone/jfs/t1/125193/14/1486/287956/5ebd17ccEea8913d3/e4ff2f30a2e9cfb9.jpg!q70.dpg.webp",
+        "//img14.360buyimg.com/imgzone/jfs/t1/119588/2/5247/289218/5ebd17ccEcebca149/55f045a47fbb46e8.jpg!q70.dpg.webp",
+        "//img10.360buyimg.com/imgzone/jfs/t1/120316/18/1570/261797/5ebd17ccE7b1bcd35/d0d1eab30d5ccf13.jpg!q70.dpg.webp",
+        "//img20.360buyimg.com/imgzone/jfs/t1/121633/7/1508/221804/5ebd17ceE9cbd66c4/890e15808cf5b914.jpg!q70.dpg.webp",
+        "//img20.360buyimg.com/imgzone/jfs/t1/127430/29/1558/188934/5ebd17cfE0e434669/a1f33f52c6b9c7a6.jpg!q70.dpg.webp",
+        "//img12.360buyimg.com/imgzone/jfs/t1/117403/11/6715/137450/5ebd17cfE245ed8af/526ca9370232a925.jpg!q70.dpg.webp",
+        "//img12.360buyimg.com/imgzone/jfs/t1/126369/30/1452/60428/5ebd17cfE80efe2e7/9e0d768d9cda8032.jpg!q70.dpg.webp",
+        "//img30.360buyimg.com/imgzone/jfs/t1/128269/15/1482/44292/5ebd17cfE9c92524d/f220522e51520db7.jpg!q70.dpg.webp",
+        "//img13.360buyimg.com/imgzone/jfs/t1/119411/5/5311/50654/5ebd17d0Ed9a6a6f4/d23e59ff585a91d8.jpg!q70.dpg.webp"
+      ]
+    },
+    {
+      "id": 2,
+      "goods_url": "//img10.360buyimg.com/mobilecms/s372x372_jfs/t1/87441/8/15435/487898/5e72d6f6Ed2c744d9/3852d0e7bf17a468.jpg!q70.dpg.webp",
+      "goods_name": "纤伊寻雪纺连衣裙女2020春夏新款韩版碎花裙子时尚V领很仙的小个子连衣裙 白花色 L  ",
+      "goods_price": 169,
+      "goods_introduce": [
+        "//img13.360buyimg.com/imgzone/jfs/t1/52450/31/2730/382851/5d09aed7E185dbf92/51487c33fa98ea5a.jpg!q70.dpg.webp",
+        "//img13.360buyimg.com/imgzone/jfs/t1/40424/26/9512/176381/5d09aed7E8754c26b/c5ddaf9cbf79503b.jpg!q70.dpg.webp",
+        "//img14.360buyimg.com/imgzone/jfs/t1/71708/11/2271/136962/5d09aed7E396fddd4/a2a627812d287fba.jpg!q70.dpg.webp",
+        "//img14.360buyimg.com/imgzone/jfs/t1/74342/22/2343/363127/5d09aedcE402323dd/0fa7802f8368fffa.jpg!q70.dpg.webp",
+        "//img13.360buyimg.com/imgzone/jfs/t1/43193/8/7005/376635/5d09aeddE46a3426b/862166a492ac592f.jpg!q70.dpg.webp",
+        "//img13.360buyimg.com/imgzone/jfs/t1/78653/11/2261/364696/5d09aedeE5f92515f/f71914d4214507bd.jpg!q70.dpg.webp",
+        "//img12.360buyimg.com/imgzone/jfs/t1/46533/20/2739/321138/5d09aee1Eb9c839ce/54147653282b8d54.jpg!q70.dpg.webp",
+        "//img12.360buyimg.com/imgzone/jfs/t1/71021/14/2254/378399/5d09aee3E9621ce6e/2a27655070381264.jpg!q70.dpg.webp",
+        "//img10.360buyimg.com/imgzone/jfs/t1/63476/20/2272/331014/5d09aee3E769dd659/fabb2f3cda9d515c.jpg!q70.dpg.webp",
+        "//img14.360buyimg.com/imgzone/jfs/t1/78613/13/2355/317865/5d09aee6Ed807c530/4614d6c2a28c098e.jpg!q70.dpg.webp",
+        "//img13.360buyimg.com/imgzone/jfs/t1/42925/19/7051/216479/5d09aee8Eca4979fa/20ef781681d9c964.jpg!q70.dpg.webp",
+        "//img10.360buyimg.com/imgzone/jfs/t1/62173/7/2280/168279/5d09aee9E00848f97/c2d185e76182fddc.jpg!q70.dpg.webp",
+        "//img20.360buyimg.com/imgzone/jfs/t1/37424/19/11819/142390/5d09aeebEeb4a0de8/2753879d4f89c1e0.jpg!q70.dpg.webp"
+      ]
+    },
+    {
+      "id": 3,
+      "goods_url": "//img10.360buyimg.com/mobilecms/s372x372_jfs/t1/119492/39/5163/306037/5ebbab5eE39d07bee/bd807dbd9a777ba5.jpg!q70.dpg.webp",
+      "goods_name": "浪莎打底袜 120D天鹅绒收腹提臀美腿显瘦加档连裤袜 1双 肤色 120D收腹提臀",
+      "goods_price": "15.8"
+    },
+    {
+      "id": 4,
+      "goods_url": "//img10.360buyimg.com/mobilecms/s372x372_jfs/t1/124292/14/1556/128660/5ebd8815Efa5adc58/23e42c2784fa86b5.jpg!q70.dpg.webp",
+      "goods_name": "OUHEN轻奢品牌女装 小个子印花连衣裙女2020夏季新款遮肚减龄气质时尚收腰显瘦短款裙子 白色黑花 160/M ",
+      "goods_price": "468"
+    },
+    {
+      "id": 5,
+      "goods_url": "//img12.360buyimg.com/mobilecms/s372x372_jfs/t1/103648/13/15/194745/5da59efaEd1707499/a313c06d8598beaa.jpg!q70.dpg.webp",
+      "goods_name": " Redmi 8 5000mAh大电量 大字体大音量大内存 3D四曲面机身 AI双摄 骁龙八核处理器 AI人脸解锁 3GB+32GB 碳岩灰 游戏智能手机 小米 红米 ",
+      "goods_price": "749"
+    },
+    {
+      "id": 6,
+      "goods_url": "//img12.360buyimg.com/mobilecms/s372x372_jfs/t1/97625/35/16850/228118/5e82b381E06f61b59/4540e91d8486e6b8.jpg!q70.dpg.webp",
+      "goods_name": "  绣球花盆栽室内外阳台绿植花卉绣球花苗庭院地栽植物变色无尽夏重瓣八仙花苗四季种植循环开花耐寒幸运花 无尽夏 2年苗                ",
+      "goods_price": "9.9"
+    },
+    {
+      "id": 7,
+      "goods_url": "//img10.360buyimg.com/mobilecms/s372x372_jfs/t1/87441/8/15435/487898/5e72d6f6Ed2c744d9/3852d0e7bf17a468.jpg!q70.dpg.webp",
+      "goods_name": "纤伊寻雪纺连衣裙女2020春夏新款韩版碎花裙子时尚V领很仙的小个子连衣裙 白花色 L  ",
+      "goods_price": 169
+    },
+    {
+      "id": 8,
+      "goods_url": "//img10.360buyimg.com/mobilecms/s372x372_jfs/t1/119492/39/5163/306037/5ebbab5eE39d07bee/bd807dbd9a777ba5.jpg!q70.dpg.webp",
+      "goods_name": "浪莎打底袜 120D天鹅绒收腹提臀美腿显瘦加档连裤袜 1双 肤色 120D收腹提臀",
+      "goods_price": "15.8"
+    },
+    {
+      "id": 9,
+      "goods_url": "//img10.360buyimg.com/mobilecms/s372x372_jfs/t1/124292/14/1556/128660/5ebd8815Efa5adc58/23e42c2784fa86b5.jpg!q70.dpg.webp",
+      "goods_name": "OUHEN轻奢品牌女装 小个子印花连衣裙女2020夏季新款遮肚减龄气质时尚收腰显瘦短款裙子 白色黑花 160/M ",
+      "goods_price": "468"
+    },
+    {
+      "id": 10,
+      "goods_url": "//img12.360buyimg.com/mobilecms/s372x372_jfs/t1/103648/13/15/194745/5da59efaEd1707499/a313c06d8598beaa.jpg!q70.dpg.webp",
+      "goods_name": " Redmi 8 5000mAh大电量 大字体大音量大内存 3D四曲面机身 AI双摄 骁龙八核处理器 AI人脸解锁 3GB+32GB 碳岩灰 游戏智能手机 小米 红米 ",
+      "goods_price": "749"
+    },
+    {
+      "id": 11,
+      "goods_url": "//img12.360buyimg.com/mobilecms/s372x372_jfs/t1/97625/35/16850/228118/5e82b381E06f61b59/4540e91d8486e6b8.jpg!q70.dpg.webp",
+      "goods_name": "  绣球花盆栽室内外阳台绿植花卉绣球花苗庭院地栽植物变色无尽夏重瓣八仙花苗四季种植循环开花耐寒幸运花 无尽夏 2年苗                ",
+      "goods_price": "9.9"
+    },
+    {
+      "id": 12,
+      "goods_url": "//img10.360buyimg.com/mobilecms/s372x372_jfs/t1/119492/39/5163/306037/5ebbab5eE39d07bee/bd807dbd9a777ba5.jpg!q70.dpg.webp",
+      "goods_name": "浪莎打底袜 120D天鹅绒收腹提臀美腿显瘦加档连裤袜 1双 肤色 120D收腹提臀",
+      "goods_price": "15.8"
+    },
+    {
+      "id": 14,
+      "goods_url": "//img12.360buyimg.com/mobilecms/s372x372_jfs/t1/103648/13/15/194745/5da59efaEd1707499/a313c06d8598beaa.jpg!q70.dpg.webp",
+      "goods_name": " Redmi 8 5000mAh大电量 大字体大音量大内存 3D四曲面机身 AI双摄 骁龙八核处理器 AI人脸解锁 3GB+32GB 碳岩灰 游戏智能手机 小米 红米 ",
+      "goods_price": "749"
+    },
+    {
+      "id": 15,
+      "goods_url": "//img12.360buyimg.com/mobilecms/s372x372_jfs/t1/97625/35/16850/228118/5e82b381E06f61b59/4540e91d8486e6b8.jpg!q70.dpg.webp",
+      "goods_name": "  绣球花盆栽室内外阳台绿植花卉绣球花苗庭院地栽植物变色无尽夏重瓣八仙花苗四季种植循环开花耐寒幸运花 无尽夏 2年苗                ",
+      "goods_price": "9.9"
+    },
+    {
+      "id": 16,
+      "goods_url": "//img12.360buyimg.com/mobilecms/s372x372_jfs/t1/103648/13/15/194745/5da59efaEd1707499/a313c06d8598beaa.jpg!q70.dpg.webp",
+      "goods_name": " Redmi 8 5000mAh大电量 大字体大音量大内存 3D四曲面机身 AI双摄 骁龙八核处理器 AI人脸解锁 3GB+32GB 碳岩灰 游戏智能手机 小米 红米 ",
+      "goods_price": "749"
+    },
+    {
+      "id": 17,
+      "goods_url": "//img12.360buyimg.com/mobilecms/s372x372_jfs/t1/97625/35/16850/228118/5e82b381E06f61b59/4540e91d8486e6b8.jpg!q70.dpg.webp",
+      "goods_name": "  绣球花盆栽室内外阳台绿植花卉绣球花苗庭院地栽植物变色无尽夏重瓣八仙花苗四季种植循环开花耐寒幸运花 无尽夏 2年苗                ",
+      "goods_price": "9.9"
+    },
+    {
+      "id": 18,
+      "goods_url": "//img10.360buyimg.com/mobilecms/s372x372_jfs/t1/119492/39/5163/306037/5ebbab5eE39d07bee/bd807dbd9a777ba5.jpg!q70.dpg.webp",
+      "goods_name": "浪莎打底袜 120D天鹅绒收腹提臀美腿显瘦加档连裤袜 1双 肤色 120D收腹提臀",
+      "goods_price": "15.8"
+    },
+    {
+      "id": 20,
+      "goods_url": "//img12.360buyimg.com/mobilecms/s372x372_jfs/t1/103648/13/15/194745/5da59efaEd1707499/a313c06d8598beaa.jpg!q70.dpg.webp",
+      "goods_name": " Redmi 8 5000mAh大电量 大字体大音量大内存 3D四曲面机身 AI双摄 骁龙八核处理器 AI人脸解锁 3GB+32GB 碳岩灰 游戏智能手机 小米 红米 ",
+      "goods_price": "749"
+    },
+    {
+      "id": 21,
+      "goods_url": "//img12.360buyimg.com/mobilecms/s372x372_jfs/t1/97625/35/16850/228118/5e82b381E06f61b59/4540e91d8486e6b8.jpg!q70.dpg.webp",
+      "goods_name": "  绣球花盆栽室内外阳台绿植花卉绣球花苗庭院地栽植物变色无尽夏重瓣八仙花苗四季种植循环开花耐寒幸运花 无尽夏 2年苗                ",
+      "goods_price": "9.9"
+    }
+  ],
+  "comments": [
+    {
+      "mobile": "13945681235",
+      "time": "2020-6-12",
+      "content": "裙子不在错 ，推荐之",
+      "id": 1
+    },
+    {
+      "mobile": "13945681235",
+      "time": "2020-6-12",
+      "content": "商品质量不错  ",
+      "id": 2
+    },
+    {
+      "mobile": "13945681235",
+      "time": "2020-6-12",
+      "content": "可以了 可以",
+      "id": 3
+    },
+    {
+      "mobile": "13895647895",
+      "time": "2020-6-19",
+      "content": "不错  不错",
+      "id": 4
+    }
+  ],
+  "cats": [
+    {
+      "id": 1,
+      "name": "手机",
+      "sub_cat": [
+        {
+          "id": 1,
+          "cat_name": "小米",
+          "cat_img": "//img30.360buyimg.com/focus/s140x140_jfs/t13411/188/926813276/3945/a4f47292/5a1692eeN105a64b4.png"
+        },
+        {
+          "id": 2,
+          "cat_name": "华为",
+          "cat_img": "//img14.360buyimg.com/focus/s140x140_jfs/t11929/135/2372293765/1396/e103ec31/5a1692e2Nbea6e136.jpg"
+        },
+        {
+          "id": 3,
+          "cat_name": "oppo",
+          "cat_img": "//img13.360buyimg.com/focus/s140x140_jfs/t13036/273/932026474/2570/a3517c7d/5a169254N4bbbd9fb.png"
+        },
+        {
+          "id": 4,
+          "cat_name": "vivo",
+          "cat_img": "//img11.360buyimg.com/focus/s140x140_jfs/t11014/359/2341377211/2777/1755c29c/5a169244Nff0179e0.png"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "家用电器",
+      "sub_cat": [
+        {
+          "id": 5,
+          "cat_name": "电压力锅",
+          "cat_img": "//img13.360buyimg.com/focus/s140x140_jfs/t13069/193/944900508/2525/d7c9efc/5a17f21dN905aaf4c.jpg"
+        },
+        {
+          "id": 6,
+          "cat_name": "豆浆机",
+          "cat_img": "//img11.360buyimg.com/focus/s140x140_jfs/t14065/132/988058896/1688/99cd0a3d/5a17f229Nc4c681fb.jpg"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "计生情趣"
+    }
+  ],
+  "orders": [
+    {
+      "id": 6,
+      "goods_url": "//img12.360buyimg.com/mobilecms/s372x372_jfs/t1/97625/35/16850/228118/5e82b381E06f61b59/4540e91d8486e6b8.jpg!q70.dpg.webp",
+      "goods_name": "  绣球花盆栽室内外阳台绿植花卉绣球花苗庭院地栽植物变色无尽夏重瓣八仙花苗四季种植循环开花耐寒幸运花 无尽夏 2年苗                ",
+      "goods_price": "9.9",
+      "is_pay": 0
+    },
+    {
+      "id": 7,
+      "goods_url": "//img10.360buyimg.com/mobilecms/s372x372_jfs/t1/87441/8/15435/487898/5e72d6f6Ed2c744d9/3852d0e7bf17a468.jpg!q70.dpg.webp",
+      "goods_name": "纤伊寻雪纺连衣裙女2020春夏新款韩版碎花裙子时尚V领很仙的小个子连衣裙 白花色 L  ",
+      "goods_price": 169,
+      "is_pay": 1
+    },
+    {
+      "id": 8,
+      "goods_url": "//img10.360buyimg.com/mobilecms/s372x372_jfs/t1/119492/39/5163/306037/5ebbab5eE39d07bee/bd807dbd9a777ba5.jpg!q70.dpg.webp",
+      "goods_name": "浪莎打底袜 120D天鹅绒收腹提臀美腿显瘦加档连裤袜 1双 肤色 120D收腹提臀",
+      "goods_price": "15.8",
+      "is_pay": 2
+    }
+  ],
+  "express": {
+    "resultcode": "200",
+    "reason": "查询物流信息成功",
+    "result": {
+      "company": "EMS",
+      "com": "ems",
+      "no": "1186465887499",
+      "status": "1",
+      "status_detail": "PENDING",
+      "list": [
+        {
+          "datetime": "2016-06-15 21:44:04",
+          "remark": "离开郴州市 发往长沙市【郴州市】",
+          "zone": ""
+        },
+        {
+          "datetime": "2016-06-15 21:46:45",
+          "remark": "郴州市邮政速递物流公司国际快件监管中心已收件（揽投员姓名：侯云,联系电话:）【郴州市】",
+          "zone": ""
+        },
+        {
+          "datetime": "2016-06-16 12:04:00",
+          "remark": "离开长沙市 发往贵阳市（经转）【长沙市】",
+          "zone": ""
+        },
+        {
+          "datetime": "2016-06-17 07:53:00",
+          "remark": "到达贵阳市处理中心（经转）【贵阳市】",
+          "zone": ""
+        },
+        {
+          "datetime": "2016-06-18 07:40:00",
+          "remark": "离开贵阳市 发往毕节地区（经转）【贵阳市】",
+          "zone": ""
+        },
+        {
+          "datetime": "2016-06-18 09:59:00",
+          "remark": "离开贵阳市 发往下一城市（经转）【贵阳市】",
+          "zone": ""
+        },
+        {
+          "datetime": "2016-06-18 12:01:00",
+          "remark": "到达  纳雍县 处理中心【毕节地区】",
+          "zone": ""
+        },
+        {
+          "datetime": "2016-06-18 17:34:00",
+          "remark": "离开纳雍县 发往纳雍县阳长邮政支局【毕节地区】",
+          "zone": ""
+        },
+        {
+          "datetime": "2016-06-20 17:55:00",
+          "remark": "投递并签收，签收人：单位收发章 *【毕节地区】",
+          "zone": ""
+        }
+      ]
+    },
+    "error_code": 0
+  }
+}

@@ -1,0 +1,70 @@
+{extend name="master/base" /}
+
+{block name="content"}
+    <style>
+        body {
+            background-color: #ffffff;
+        }
+		.zyupload {
+		    margin: 0 !important;
+		}
+    </style>
+
+<div class="layui-form layuimini-form">
+	<div class="layui-form-item">
+	    <label class="layui-form-label required">订单号</label>
+	    <div class="layui-input-block">
+	        <input type="text" name="exp_no" lay-verify="required" lay-reqtext="订单号不能为空" class="layui-input">
+	    </div>
+
+		<input type="hidden" name="order_id"  value="{$id}" />
+	</div>
+     <div class="layui-form-item">
+        <label class="layui-form-label">快递公司</label>
+        <div class="layui-input-block">
+            <select name="exp_com" lay-filter="aihao">
+                <option value="0">快递公司</option>
+                <option value="sf">顺丰</option>
+                <option value="yd">韵达</option>
+                <option value="yt">圆通</option>
+                <option value="sto">申通</option>
+            </select>
+        </div>
+    </div>
+   
+    <div class="layui-form-item">
+        <div class="layui-input-block">
+            <button class="layui-btn layui-btn-normal" lay-submit lay-filter="saveBtn">确认保存</button>
+        </div>
+    </div>
+</div>
+
+<script>
+	
+	
+    layui.use(['form'], function () {
+        var form = layui.form,
+            layer = layui.layer,
+            $ = layui.$;
+
+        //监听提交
+        form.on('submit(saveBtn)', function (data) {
+			$.ajax({
+				type:'POST',
+				url:'/admin/order/save_exp',
+				data:data.field,
+				success:function(res){
+					if(res.status=='success'){
+						window.location='/admin/order/index'
+					}
+				}
+			})
+			
+            return false;
+        });
+
+    });
+	
+	
+</script>
+{/block}
